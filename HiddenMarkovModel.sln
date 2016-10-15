@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaumWelchTesting", "BaumWelchTesting\BaumWelchTesting.vcxproj", "{EACCB6F5-FE6C-4835-89A8-260513AEC2B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HMM", "HMM\HMM.vcxproj", "{F32F7160-C92D-4AFF-8F4B-77E7E43EF952}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ViterbiTesting", "ViterbiTesting\ViterbiTesting.vcxproj", "{65297D71-1937-4D43-8B5D-54FE4EAF4C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACCB6F5-FE6C-4835-89A8-260513AEC2B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EACCB6F5-FE6C-4835-89A8-260513AEC2B5}.Debug|Win32.Build.0 = Debug|Win32
+		{EACCB6F5-FE6C-4835-89A8-260513AEC2B5}.Release|Win32.ActiveCfg = Release|Win32
+		{EACCB6F5-FE6C-4835-89A8-260513AEC2B5}.Release|Win32.Build.0 = Release|Win32
+		{F32F7160-C92D-4AFF-8F4B-77E7E43EF952}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F32F7160-C92D-4AFF-8F4B-77E7E43EF952}.Debug|Win32.Build.0 = Debug|Win32
+		{F32F7160-C92D-4AFF-8F4B-77E7E43EF952}.Release|Win32.ActiveCfg = Release|Win32
+		{F32F7160-C92D-4AFF-8F4B-77E7E43EF952}.Release|Win32.Build.0 = Release|Win32
+		{65297D71-1937-4D43-8B5D-54FE4EAF4C4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65297D71-1937-4D43-8B5D-54FE4EAF4C4B}.Debug|Win32.Build.0 = Debug|Win32
+		{65297D71-1937-4D43-8B5D-54FE4EAF4C4B}.Release|Win32.ActiveCfg = Release|Win32
+		{65297D71-1937-4D43-8B5D-54FE4EAF4C4B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
